@@ -23,14 +23,14 @@ else
 
 Console.WriteLine(lastDigit);*/
 
-/*Console.WriteLine("Введите число: ");
+Console.WriteLine("Введите число: ");
 int inputNumber = Convert.ToInt32(Console.ReadLine());
 int numberMin = 100;
 int numberMax = 1000;
 int secondNumb = inputNumber / 10;
 int lastDigit = secondNumb % 10;
 
-if (inputNumber > numberMin && inputNumber < numberMax)
+if (inputNumber >= numberMin && inputNumber < numberMax)
 {
     Console.WriteLine(lastDigit);
 }
@@ -38,7 +38,7 @@ if (inputNumber > numberMin && inputNumber < numberMax)
 else
 {
     Console.Write("Incorrect number ");
-}*/
+}
 
 
 /*Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
@@ -68,7 +68,7 @@ else
 78 -> третьей цифры нет
 32679 -> 6*/
 
-Console.Write("Введите число: ");
+/* Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 while (number >= 1000 )
@@ -85,4 +85,4 @@ if (number < 1000 && number >= 100)
 else if ( number < 100)
 {
     Console.Write("Третьей цифры нет");
-}
+}*/

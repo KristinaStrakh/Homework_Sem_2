@@ -68,22 +68,21 @@ else
 78 -> третьей цифры нет
 32679 -> 6*/
 
-int number = new Random().Next(1,100000);
-Console.WriteLine(number);
-int ThirdNumb = 0;
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
 
-while (number > 1000 )
+while (number >= 1000 )
 {
     number = number / 10;
-
-     if (number < 1000 && number > 100)
-    {
-     ThirdNumb = number % 10;
-     Console.WriteLine(ThirdNumb);
-    }
+    
 }
 
-if (number < 100)
+if (number < 1000 && number >= 100)
 {
-    Console.WriteLine("Третьей цифры нет");
+    number = number % 10;
+    Console.WriteLine(number);
+}
+else if ( number < 100)
+{
+    Console.Write("Третьей цифры нет");
 }

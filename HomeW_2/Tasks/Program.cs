@@ -46,7 +46,7 @@ else
 7 -> да 
 1 -> нет*/
 
-Console.WriteLine("Введите день недели: ");
+/*Console.WriteLine("Введите день недели: ");
 int Day = Convert.ToInt32(Console.ReadLine());
 
    if (Day < 8 && Day > 5)
@@ -61,5 +61,6 @@ else if (Day >=1 && Day < 6)
 else
 {
     Console.WriteLine ("Вы ввели не день недели");
-}
+}*/
+
 

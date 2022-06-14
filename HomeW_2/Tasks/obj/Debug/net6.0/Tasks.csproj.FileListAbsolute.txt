@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/Tasks
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/Tasks.deps.json
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/Tasks.runtimeconfig.json
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/Tasks.dll
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/ref/Tasks.dll
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/bin/Debug/net6.0/Tasks.pdb
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.AssemblyInfo.cs
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.dll
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/ref/Tasks.dll
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.pdb
+/Users/kristina/Desktop/DZ2/HomeW_2/Tasks/obj/Debug/net6.0/Tasks.genruntimeconfig.cache

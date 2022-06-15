@@ -3,25 +3,6 @@
 782 -> 8 
 918 -> 1*/
 
-/*Console.WriteLine("Введите число: ");
-int inputNumber = Convert.ToInt32(Console.ReadLine());
-int numberMin = 100;
-int numberMax = 1000;
-int secondNumb = 0;
-int lastDigit = 0;
-
-if (inputNumber > numberMin && inputNumber < numberMax)
-{
-    secondNumb = inputNumber / 10;
-    lastDigit = secondNumb % 10;
-}
-
-else
-{
-    Console.Write("Incorrect number ");
-}
-
-Console.WriteLine(lastDigit);*/
 
 Console.WriteLine("Введите число: ");
 int inputNumber = Convert.ToInt32(Console.ReadLine());
